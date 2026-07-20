@@ -1,0 +1,6 @@
+Name = Dipesh, Roll_no = 1, Mark = 99
+Name = Mayur, Roll_no = 2, Mark = 87
+Name = Gargi, Roll_no = 3, Mark = 73
+Name = Alok, Roll_no = 4, Mark = 43
+Name = Bhavika, Roll_no = 5, Mark = 84
+Name = Anaannya, Roll_no = 6, Mark = 98

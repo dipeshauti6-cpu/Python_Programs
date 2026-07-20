@@ -1,0 +1,4 @@
+object oriented
+easy to read
+platform independentHello Python
+dataHello PythonHello PythonHello PythonHello PythonHello PythonHello PythonHello Python

@@ -1,0 +1,3 @@
+Hello Java
+Java is easy
+Learn Java
