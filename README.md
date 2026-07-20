@@ -1,0 +1,1 @@
+This repository includes all my programming codes from beginner to intermediate level. It covers basic concepts, practice programs, algorithms, file handling, object-oriented programming, and mini projects.
